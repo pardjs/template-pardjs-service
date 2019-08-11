@@ -12,12 +12,13 @@
     "noImplicitAny": true,
     "outDir": "dist",
     "removeComments": true,
-    "rootDir": ".",
+    "rootDir": "src",
     "strict": true,
     "strictNullChecks": true,
     "sourceMap": true,
-    "target": "es6",
-    "composite": true
+    "target": "es2017",
+    "composite": true,
+    "incremental": true
   },
   "exclude": ["node_modules"]
 }
