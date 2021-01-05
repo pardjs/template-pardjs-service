@@ -20,7 +20,7 @@
     "@nestjs/common": "^6.5.3",
     "@nestjs/core": "^6.5.3",
     "@nestjs/platform-express": "^6.5.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.2"
   },
